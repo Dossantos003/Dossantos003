@@ -24,8 +24,7 @@ Evolução constante dos meus estudos
 
 Busco uma oportunidade como estagiário ou desenvolvedor júnior, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e crescer na área de tecnologia.
 
-📫 Contato
-📧 Email: gabriel09santos@gmail.com
+📫 Contato:
 📱 Telefone: (11) 99305-2658
 
 
