@@ -45,8 +45,6 @@ Busco uma oportunidade como estagiário ou desenvolvedor júnior, onde eu possa 
 <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/windows8/windows8-original.svg"/>
  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-  </a>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
   </a>
 </p>
