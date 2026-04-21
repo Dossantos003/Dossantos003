@@ -35,10 +35,10 @@ Busco uma oportunidade como estagiário ou desenvolvedor júnior, onde eu possa 
    <hr>
 
 
-<div style="display: inline_block"><br>
+<div style=""><br>
  <h2 align="center">Linguagens e ferramentas</h2>
 <p align="center">
-<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/python/python-original.svg"/>
+<img style=height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/python/python-original.svg"/>
 <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/html5/html5-original.svg"/>
 <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/css3/css3-original.svg"/>
 <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/github/github-original.svg"/>
