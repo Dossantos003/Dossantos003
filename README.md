@@ -15,6 +15,7 @@ Tenho conhecimento nas seguintes tecnologias:
 🎨 CSS3
 ⚛️ React
 🐍 Python
+☕ Java
 📚 O que você vai encontrar aqui
 Projetos em React
 Aplicações web responsivas
