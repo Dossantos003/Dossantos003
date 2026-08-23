@@ -28,6 +28,7 @@ Busco uma oportunidade como estagiário ou desenvolvedor júnior, onde eu possa 
 📫 Contato:
 📱 Telefone: (11) 99305-2658
 📧 Email: gabriel09santos@gmail.com
+🔗 Linkedln: https://www.linkedin.com/in/gabriel-dos-santos-nascimento-807595233/
 
  
 
