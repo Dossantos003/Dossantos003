@@ -47,7 +47,11 @@ Busco uma oportunidade como estagiário ou desenvolvedor júnior, onde eu possa 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
   </a>
 </p>
- 📊 Estatísticas
+
+ ---
+
+ 
+ ### <h2 align="center"> 📊 Estatísticas </h2>
 
 <table>
 <tr>
