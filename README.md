@@ -47,6 +47,18 @@ Busco uma oportunidade como estagiário ou desenvolvedor júnior, onde eu possa 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
   </a>
 </p>
+ ### 📊 Estatísticas
+
+<table>
+<tr>
+<td valign="top">
+<img height="170em" src="https://github-readme-stats-re-5f81.vercel.app/api?username=Dossantos003&show_icons=true&theme=radical"/>
+</td>
+<td valign="top">
+<img height="170em" src="https://github-readme-stats-re-5f81.vercel.app/api/top-langs/?username=Dossantos003&layout=compact&theme=radical&card_width=380"/>
+</td>
+</tr>
+</table>
 <div> 
   <a href = "https://mail.google.com/mail/u/0/?hl=pt-BR#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-dos-santos-nascimento-807595233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
